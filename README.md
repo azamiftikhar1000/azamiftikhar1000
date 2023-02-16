@@ -19,5 +19,3 @@ Experienced Software Developer and Machine Learning Engineer with 6+ Years of In
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azam.iftikhar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azam_iftikhar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azamiftikhar1000) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
