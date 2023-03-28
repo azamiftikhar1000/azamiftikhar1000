@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Software Developer and Machine Learning Engineer with 6+ Years of Industry Experience and Masters in ML.
+A ML engineer and software developer who values learning and growing with people, teams, and technologies.
 
 
 
