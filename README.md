@@ -13,5 +13,6 @@ A ML engineer and software developer who values learning and growing with people
 
 
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azam.iftikhar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azam_iftikhar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azamiftikhar1000) 
+ -->
