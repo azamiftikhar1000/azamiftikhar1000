@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 A ML engineer and software developer who values learning and growing with people, teams, and technologies.
 
 
